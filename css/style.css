@@ -6,7 +6,7 @@ body{
     background-image: linear-gradient(to right,#1A6326, #4da55b );
     margin-top: -18px;
     margin-left: -12px;
-    width: 1352px;
+    width: 1306px;
     height: 100px;
 }
 .logo-ifms{
@@ -99,6 +99,11 @@ span{
     font-size: 12px;
     margin-top: 12px;
 }
+.second-justify-development{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 10%;
+}
 .second-text-espaçamento{
     font-size: 12px;
     margin-top: 17%;
@@ -147,4 +152,113 @@ span{
 }
 .margin-sumario{
     margin-left: 40px;
+}
+.fifth-development{
+    margin-left: 28%;
+    height: 730px;
+    background-color: #FFFFFF;
+    text-align: center;
+    border-radius: 8px;
+    width: 600px;
+    margin-top: 1%; 
+    text-align: justify;
+}
+
+.fifth-justify-development{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.sixth-development{
+    margin-left: 28%;
+    height: 700px;
+    background-color: #FFFFFF;
+    text-align: center;
+    border-radius: 8px;
+    width: 600px;
+    margin-top: 1%; 
+    text-align: justify;
+}
+
+.sixth-justify-development{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.seventh-development{
+    margin-left: 28%;
+    height: 700px;
+    background-color: #FFFFFF;
+    text-align: center;
+    border-radius: 8px;
+    width: 600px;
+    margin-top: 1%; 
+    text-align: justify;
+}
+.seventh-justify-development{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.eighth-development{
+    margin-left: 28%;
+    height: 700px;
+    background-color: #FFFFFF;
+    text-align: center;
+    border-radius: 8px;
+    width: 600px;
+    margin-top: 1%; 
+    text-align: justify;
+}
+.eighth-justify-development{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.ninth-development{
+    margin-left: 28%;
+    height: 700px;
+    background-color: #FFFFFF;
+    text-align: center;
+    border-radius: 8px;
+    width: 600px;
+    margin-top: 1%; 
+    text-align: justify;
+}
+
+.ninth-justify-development{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.tenth-development{
+    margin-left: 28%;
+    height: 700px;
+    background-color: #FFFFFF;
+    text-align: center;
+    border-radius: 8px;
+    width: 600px;
+    margin-top: 1%; 
+    text-align: justify;
+}
+
+.tenth-justify-development{
+    width: 90%;
+    margin-left: 5%;
+}
+
+footer{
+    background-color: #2d793a;
+    height: 45px;
+    position: fixed;
+    bottom: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 102%;
+    margin-left: -2%;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+    flex-direction: column;
+    color: white;
+    margin-top: -10px;
 }
