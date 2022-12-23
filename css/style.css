@@ -6,7 +6,7 @@ body{
     background-image: linear-gradient(to right,#1A6326, #4da55b );
     margin-top: -18px;
     margin-left: -12px;
-    width: 101%;
+    width: 1306px;
     height: 100px;
 }
 .logo-ifms{
@@ -255,9 +255,10 @@ footer {
     color: white;
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 102%;
     height: 48px;
     align-items: center;
     justify-content: center;
     vertical-align: middle;
+    margin-left: -2%;
 }
