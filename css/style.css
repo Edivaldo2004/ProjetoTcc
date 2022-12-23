@@ -217,7 +217,7 @@ span{
 
 .ninth-development{
     margin-left: 28%;
-    height: 700px;
+    height: 715px;
     background-color: #FFFFFF;
     text-align: center;
     border-radius: 8px;
@@ -247,18 +247,17 @@ span{
     margin-left: 5%;
 }
 
-footer{
-    background-color: #2d793a;
-    height: 45px;
+footer {
     position: fixed;
     bottom: 0;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    width: 102%;
-    margin-left: -2%;
-    text-align: center;
+    margin-top: 14px;
+    background-color: #2a7c30;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 48px;
+    align-items: center;
     justify-content: center;
     vertical-align: middle;
-    flex-direction: column;
-    color: white;
-    margin-top: -10px;
 }
